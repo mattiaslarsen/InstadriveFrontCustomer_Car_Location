@@ -1,4 +1,4 @@
-// src/components/customer/CustomerStats/CustomerStats.tsx
+// src/components/customer/customer-stats/CustomerStats.tsx
 import { useCustomer } from '@/context/CustomerContext';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';  // Nu kommer denna import fungera

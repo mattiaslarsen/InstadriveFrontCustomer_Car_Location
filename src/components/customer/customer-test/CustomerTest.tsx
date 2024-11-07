@@ -1,4 +1,4 @@
-// src/components/CustomerTest.tsx
+// src/components/customer/customer-test/CustomerTest.tsx
 import { useEffect } from 'react';
 import { useCustomer } from '@/context/CustomerContext';
 import { CustomerService } from '@/services/CustomerService';

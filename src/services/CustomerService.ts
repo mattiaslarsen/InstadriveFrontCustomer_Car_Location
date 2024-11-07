@@ -1,4 +1,4 @@
-// src/services/customerService.ts
+// src/services/CustomerService.ts
 import { Customer, ImportResult } from '@/types/customer';
 import { API_BASE_URL } from '@/config';
 

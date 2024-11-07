@@ -1,4 +1,4 @@
-// src/components/customer/CustomerCard/CustomerCard.tsx
+// src/components/customer/customer-card/CustomerCard.tsx
 import { Card, CardHeader, CardTitle, CardContent, CardFooter } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Customer } from "@/types/customer";
