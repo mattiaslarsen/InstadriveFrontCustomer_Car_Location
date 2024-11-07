@@ -1,5 +1,5 @@
 import { CustomerProvider } from './context/CustomerContext';
-import CustomerTest from './components/CustomerTest';
+import CustomerTest from '@/components/customer/customer-test';
 import './App.css';
 
 function App() {
