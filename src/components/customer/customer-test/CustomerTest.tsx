@@ -3,7 +3,7 @@ import { useEffect } from 'react';
 import { useCustomer } from '@/context/CustomerContext';
 import { CustomerService } from '@/services/CustomerService';
 import CustomerCard from '@/components/customer/customer-card';
-import CustomerStats from '@/components/customer/CustomerStats';
+import CustomerStats from '@/components/customer/customer-stats';
 import { Badge } from '@/components/ui/badge';  // Lade till denna import
 
 function CustomerTest() {
