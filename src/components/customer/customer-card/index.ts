@@ -1,2 +1,2 @@
-// src/components/customer/CustomerCard/index.ts
+// src/components/customer/customer-card/index.ts
 export { default } from './CustomerCard';
